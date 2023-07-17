@@ -72,5 +72,3 @@
 </div>
 
 ###
-
-![snake gif](https://github.com/akyildizyasemin/akyildizyasemin/blob/output/github-contribution-grid-snake.gif)
