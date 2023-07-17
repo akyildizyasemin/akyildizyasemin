@@ -21,7 +21,7 @@
 
 <div align="center">
 
-  <a href="[https://flowcv.com/resume/5hs6fdp3f9" target="_blank](https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/4f8b6cc2-e9d5-4a4c-af9a-59733cebbd25.png)">
+  <a href="[https://flowcv.com/resume/5hs6fdp3f9" target="_blank">
     <img src="https://cdn-1.webcatalog.io/catalog/flowcv/flowcv-icon-filled-256.png?v=1675590329541" width="52" height="40" alt="flowcv logo"  />
   </a>
 
