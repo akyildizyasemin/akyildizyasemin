@@ -21,10 +21,6 @@
 
 <div align="center">
 
-  <a href="[https://flowcv.com/resume/5hs6fdp3f9" target="_blank">
-    <img src="https://cdn-1.webcatalog.io/catalog/flowcv/flowcv-icon-filled-256.png?v=1675590329541" width="52" height="40" alt="flowcv logo"  />
-  </a>
-
   <a href="https://www.linkedin.com/in/yasemin-aky%C4%B1ld%C4%B1z/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
